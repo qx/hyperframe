@@ -42,15 +42,3 @@ In chronological order:
   - Fixed bugs in frame initialization code.
   - Improved frame repr for frames with non-printable bodies.
 
-- Davey Shafik (@dshafik)
-
-  - Fixed Alt Svc frame stream association.
-
-- Seth Michael Larson (@SethMichaelLarson)
-
-  - Performance improvements to serialization and parsing.
-
-- Fred Thomsen (@fredthomsen)
-
-  - Support for memoryview in DataFrames.
-
